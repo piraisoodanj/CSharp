@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\bin\Debug\net6.0\Day1_Assesment.exe
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\bin\Debug\net6.0\Day1_Assesment.deps.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\bin\Debug\net6.0\Day1_Assesment.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\bin\Debug\net6.0\Day1_Assesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\bin\Debug\net6.0\Day1_Assesment.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\refint\Day1_Assesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\Day1_Assesment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\Day1_Assesment\Day1_Assesment\obj\Debug\net6.0\ref\Day1_Assesment.dll
