@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\bin\Debug\net6.0\GenericCollectionsAssesment.exe
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\bin\Debug\net6.0\GenericCollectionsAssesment.deps.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\bin\Debug\net6.0\GenericCollectionsAssesment.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\bin\Debug\net6.0\GenericCollectionsAssesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\bin\Debug\net6.0\GenericCollectionsAssesment.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\refint\GenericCollectionsAssesment.dll
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.pdb
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\GenericCollectionsAssesment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Cource_Structure\Prgm\FIrstPrgm\GenericCollectionsAssesment\GenericCollectionsAssesment\obj\Debug\net6.0\ref\GenericCollectionsAssesment.dll
